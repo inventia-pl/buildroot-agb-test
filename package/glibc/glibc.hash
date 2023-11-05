@@ -1,2 +1,8 @@
-# This hash file is not used; instead, update the
-# hash files in the per-version sub-directories.
+# Locally calculated after checking pgp signature (glibc)
+# sha256	94efeb00e4603c8546209cefb3e1a50a5315c86fa9b078b6fad758e187ce13e9	glibc-2.23.tar.xz
+# sha256  f5e9ed1f08a8d8bdb09e1b4a1dff588fe49efe940808cc23e544149dd4e79747        glibc-2.23.tar.xz
+# sha256  94efeb00e4603c8546209cefb3e1a50a5315c86fa9b078b6fad758e187ce13e9        glibc-2.23.tar.xz
+# sha256  07b6be5d91fd78c8cae1eec6ddb482590700c247bc1b5e611097f581f97fa754        glibc-388b4f1a02f3a801965028bbfcd48d905638b797.tar.xz
+sha256  2a7758f4fd302827b2203096c8b43e192b06535dd67b73bddffc38b88a29a54b        glibc-2.23A.tar.gz
+sha256	99d4a3e8efd144d71488e478f62587578c0f4e1fa0b4eed47ee3d4975ebeb5d3	glibc-2.24.tar.xz
+sha256	067bd9bb3390e79aa45911537d13c3721f1d9d3769931a30c2681bfee66f23a0	glibc-2.25.tar.xz
